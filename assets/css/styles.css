@@ -1,0 +1,205 @@
+#hdr {
+  width: 89%;
+  height: 10vh;
+  margin: auto;
+}
+
+@media (min-width: 992px) {
+  #hdr {
+    width: 75%;
+    height: 10vh;
+    margin: auto;
+  }
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: rgb(97,97,103);
+  background-color: #d7d8d9;
+  border: none;
+}
+
+#brand {
+  margin-right: 30px;
+  margin-left: -30px;
+  padding: 0px;
+  margin-bottom: 10px;
+  width: 100px;
+}
+
+#wrap-contact {
+  height: 40px;
+  margin: 0px;
+  padding: 0px;
+  background-color: #d7d8d9;
+  min-width: 100%;
+}
+
+#contact-para {
+  font-size: 9px;
+  margin-left: 40px;
+}
+
+@media (min-width: 496px) {
+  #contact-para {
+    font-size: 12px;
+    margin-left: 40px;
+  }
+}
+
+@media (min-width: 768px) {
+  #contact-para {
+    margin: auto;
+    margin-left: 40px;
+  }
+}
+
+#top-icons {
+  font-size: 9px;
+  height: 40px;
+}
+
+@media (min-width: 496px) {
+  #top-icons {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  #top-icons {
+  }
+}
+
+#second {
+  width: 100%;
+  height: 100vh;
+  background-color: #506a85;
+}
+
+#roundbtn, #roundbtn-1 {
+  border-radius: 5px;
+  height: 50px;
+  font-size: px;
+  background-color: rgb(33,195,176);
+}
+
+@media (min-width: 576px) {
+  #roundbtn {
+    border-radius: 5px;
+    font-size: 25px;
+  }
+}
+
+#navcol-1 {
+  margin-left: 15%;
+  width: 100%;
+}
+
+#navbar2 {
+  width: 120%;
+}
+
+@media (min-width: 992px) {
+  #navbar2 {
+  }
+}
+
+#parareen {
+  color: red;
+  font-weight: 576;
+}
+
+#threepara {
+  font-weight: 400;
+}
+
+#fourth {
+  height: 120vh;
+  width: 100%;
+  background-color: #f1f5f7;
+}
+
+h1, #fcap {
+  color: rgb(80,106,133);
+  font-weight: bold;
+  font-size: 38px;
+  font-family: Lato, sans-serif;
+}
+
+p, span {
+  color: rgb(80,106,133);
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#workcontainer {
+}
+
+#fifth {
+  height: 50vh;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  #fifth {
+    height: 30vh;
+    width: 100%;
+  }
+}
+
+#sixth {
+  background-color: #2f3f51;
+}
+
+#txtinput {
+  border: none;
+  width: 50%;
+}
+
+#ccbtn {
+  font-size: 10px;
+}
+
+@media (min-width: 992px) {
+  #ccbtn {
+  }
+}
+
+#dive {
+  width: 100%;
+  height: 5vh;
+}
+
+@media (min-width: 992px) {
+  #dive {
+    width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  #dive {
+    width: 100%;
+  }
+}
+
+#third {
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  #third {
+    width: 100%;
+    height: 70vh;
+  }
+}
+
+#imagee {
+}
+
+#svnth {
+  height: 10vh;
+  background-color: #273545;
+}
+
+#imageee {
+  border: 7px solid red;
+}
+
