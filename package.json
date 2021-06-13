@@ -1,0 +1,16 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d image_teplate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "shubhmak.github.io/image_template",
+  "dependencies": {
+    "gh-pages": "^3.2.0"
+  }
+}
